@@ -1,0 +1,1 @@
+🚀 Exciting News! 🎉 Building a New Year Timer using Tailwind CSS! 🕰️ Learning Tailwind from scratch, but up for the challenge. 🧙‍♂️ Goal: Complete by Dec 31, 2023. Stay tuned ! #NewYearTimer #LearningTailwind #CodingJourney #ChallengeAccepted #buildinpublic #100DaysOfCode
