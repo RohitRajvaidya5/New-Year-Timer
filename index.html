@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body{
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        top: 25vh;
+        left: 25vw;
+      }
+      #clock{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: whitesmoke;
+        width: 50vw;
+        height: 50vh;
+
+      }
+
+      .text-design{
+        font-size: 100px;
+        border: 1px solid black;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 20px;
+      }
+
+
+    </style>
+    <title>New Year</title>
+  </head>
+  <body>
+    <div id="clock">
+      <div id="hours" class="text-design"></div>
+      <div>:</div>
+      <div id="minutes" class="text-design"></div>
+      <div>:</div>
+      <div id="seconds" class="text-design"></div>
+      <div>:</div>
+      <div id="ampm" class="text-design"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
