@@ -1,0 +1,15 @@
+{
+  "name": "newyearcounter",
+  "version": "1.0.0",
+  "description": "This Package Just Counts Time Till New Year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "Rohit Rajvaidya",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
