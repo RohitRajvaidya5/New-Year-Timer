@@ -1,1 +1,3 @@
-🚀 Exciting News! 🎉 Building a New Year Timer using Tailwind CSS! 🕰️ Learning Tailwind from scratch, but up for the challenge. 🧙‍♂️ Goal: Complete by Dec 31, 2023. Stay tuned ! #NewYearTimer #LearningTailwind #CodingJourney #ChallengeAccepted #buildinpublic #100DaysOfCode
+# 🔥 New Year Counter 🔥
+
+This app will count till the new year i.e 1 January and after 12:00 AM gives blast or some type of celebration animation.
